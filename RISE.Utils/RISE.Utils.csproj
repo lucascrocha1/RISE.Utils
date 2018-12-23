@@ -2,14 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <Version>2.1.0</Version>
+    <Version>2.2.0</Version>
     <Description>Common functions to be used on several projects</Description>
     <Copyright>MIT</Copyright>
     <PackageLicenseUrl>https://github.com/lucascrocha1/RISE.Utils/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/lucascrocha1/RISE.Utils</PackageProjectUrl>
     <RepositoryUrl>https://github.com/lucascrocha1/RISE.Utils</RepositoryUrl>
     <RepositoryType />
-    <AssemblyVersion>2.1.0.0</AssemblyVersion>
+    <AssemblyVersion>2.2.0.0</AssemblyVersion>
   </PropertyGroup>
 
 </Project>
